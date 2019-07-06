@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="af32c864dbaa33003cbf2a36ca96197a" sys_domain="global" table="sys_hub_flow_output" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 10:51:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f732c864dbaa33003cbf2a36ca961982</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_hub_flow_output" name="sys_hub_flow_output" sys_domain="global" view="Default view">af32c864dbaa33003cbf2a36ca96197a</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sys_hub_flow_output" sys_domain="global" view="Default view">fb32c864dbaa33003cbf2a36ca96197f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 10:51:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 10:51:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7332c864dbaa33003cbf2a36ca96197f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_hub_flow_output" name="sys_hub_flow_output" sys_domain="global" view="Default view">af32c864dbaa33003cbf2a36ca96197a</sys_ui_form>
+            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="sys_hub_flow_output" sys_domain="global" view="Default view">a332c864dbaa33003cbf2a36ca96197d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 10:51:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 10:51:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bb32cc64dbaa33003cbf2a36ca96195b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_hub_flow_output" name="sys_hub_flow_output" sys_domain="global" view="Default view">af32c864dbaa33003cbf2a36ca96197a</sys_ui_form>
+            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="sys_hub_flow_output" sys_domain="global" view="Default view">3332c864dbaa33003cbf2a36ca961984</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 10:51:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 10:51:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f32c864dbaa33003cbf2a36ca961983</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_hub_flow_output" name="sys_hub_flow_output" sys_domain="global" view="Default view">af32c864dbaa33003cbf2a36ca96197a</sys_ui_form>
+            <sys_ui_section caption="Default Value" display_value="Default Value" name="sys_hub_flow_output" sys_domain="global" view="Default view">fb32c864dbaa33003cbf2a36ca961982</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 10:51:02</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sys_hub_flow_output</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-07-06 10:51:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af32c864dbaa33003cbf2a36ca96197a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_hub_flow_output</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt Spoke" source="x_366346_needit_sp">0525a894dba233003cbf2a36ca96197e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">0525a894dba233003cbf2a36ca96197e</sys_scope>
+            <sys_update_name>sys_ui_form_sections_af32c864dbaa33003cbf2a36ca96197a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-07-06 10:51:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

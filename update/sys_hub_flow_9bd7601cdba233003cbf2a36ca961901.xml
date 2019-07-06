@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>flow to test custom act..</description>
+        <internal_name>action_test_flow</internal_name>
+        <label_cache>[{"name":"d2870391-2504-485d-963d-100c68d9886d.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot>4c72c0a4dbaa33003cbf2a36ca961960</latest_snapshot>
+        <master_snapshot>ac6280a4dbaa33003cbf2a36ca961907</master_snapshot>
+        <name>action test flow</name>
+        <outputs/>
+        <remote_trigger_id>246280a4dbaa33003cbf2a36ca961947</remote_trigger_id>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-05 18:56:55</sys_created_on>
+        <sys_id>9bd7601cdba233003cbf2a36ca961901</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>action test flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_366346_needit_sp">0525a894dba233003cbf2a36ca96197e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">0525a894dba233003cbf2a36ca96197e</sys_scope>
+        <sys_update_name>sys_hub_flow_9bd7601cdba233003cbf2a36ca961901</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-07-06 10:51:54</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=9bd7601cdba233003cbf2a36ca961901"/>
+    <sys_variable_value action="delete_multiple" query="document_key=9bd7601cdba233003cbf2a36ca961901"/>
+</record_update>
